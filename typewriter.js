@@ -1,4 +1,4 @@
-const sentence = "hello there from lighthouse labs";
+const sentence = "hello there from lighthouse labs\n";
 
 let i = 0;
 let speed = 0
